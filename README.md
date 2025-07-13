@@ -16,9 +16,9 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsshresth&show_icons=true&theme=midnight-purple"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsshresth&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=itsshresth&show_icons=true&theme=midnight-purple"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsshresth&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsshresth&layout=compact&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshresth&layout=compact&theme=midnight-purple">
 <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-nix&theme=midnight-purple">--!>
 
 <p align="center">
